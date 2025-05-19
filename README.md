@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Script to calculate landscapre metrics with the IGEO7 DGGS
+# Script to calculate landscape metrics with the IGEO7 DGGS
 
 ## IGEO7 helper functions
 
